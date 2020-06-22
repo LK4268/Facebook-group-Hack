@@ -2,7 +2,7 @@
 
 # *how to run the script :  
 
-1 - download it by: git clone https://github.com/Mr-NemrMedo/fb-group-hack
+1 - download it by: git clone https://github.com/internet-help-zone-shihab/Facebook-group-Hack.git
 or download zip 
 
 2 - put it in your file with another your tools and scripts 
@@ -11,7 +11,7 @@ or download zip
 
 4 - ls 
 
-5 - cd fb-group-hack
+5 - cd Facebookb-group-Hack
 
 6 - ls 
 
